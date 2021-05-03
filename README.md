@@ -3,7 +3,7 @@
 ## Tap
 
 ```
-brew tap geeknees/geeknees git@github.com:geeknees/homebrew-cask.git
+brew tap geeknees/geeknees git@github.com:geeknees/homebrew-brew.git
 ```
 
 ## Install
