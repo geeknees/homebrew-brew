@@ -1,5 +1,3 @@
-# homebrew-cask
-
 ## Tap
 
 ```
